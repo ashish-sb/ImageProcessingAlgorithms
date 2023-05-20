@@ -5,6 +5,7 @@
 ![HoughTransform](https://github.com/ashish-sb/ImageProcessingAlgorithms/assets/15845358/489052fe-33ba-4761-826b-b794dc0af5b5)
 ![ImageSegmentation](https://github.com/ashish-sb/ImageProcessingAlgorithms/assets/15845358/c0180845-dfee-4ad9-b3e3-0a6658296826)
 ![ImageWrapping](https://github.com/ashish-sb/ImageProcessingAlgorithms/assets/15845358/ee54ab09-6f03-479c-a03c-15d8058b07d1)
+![ImageFiltering](https://github.com/ashish-sb/ImageProcessingAlgorithms/assets/15845358/ea2eb717-0fc7-4211-acb2-b52a9029e663)
 
 ![KMeans](https://github.com/ashish-sb/ImageProcessingAlgorithms/assets/15845358/10a54b05-3ace-4e85-9bae-36ef02334992)
 
